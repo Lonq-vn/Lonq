@@ -1,2 +1,2 @@
-# lonq.github.io
-GaConMC
+# github.io
+Web
